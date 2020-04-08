@@ -1,0 +1,1 @@
+export { UsersController as V1UsersController } from './v1/users.controller'

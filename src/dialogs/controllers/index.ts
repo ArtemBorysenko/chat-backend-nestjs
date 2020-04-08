@@ -1,0 +1,1 @@
+export { DialogsController as V1DialogsController } from './v1/dialogs.controller';

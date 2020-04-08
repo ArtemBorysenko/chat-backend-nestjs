@@ -1,0 +1,1 @@
+export { DialogsService as V1DialogsService } from './v1/dialogs.service'

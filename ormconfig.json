@@ -1,0 +1,10 @@
+{
+  "type": "mongodb",
+  "entities": [
+    "dist/core/database/entities/**/*{.ts,.js}"
+  ],
+  "autoLoadEntities": true,
+  "useNewUrlParser": true,
+  "useUnifiedTopology": true,
+  "url": "mongodb+srv://nestAdmin:1234@cluster0-nxfbh.mongodb.net/chat?retryWrites=true&w=majority"
+}

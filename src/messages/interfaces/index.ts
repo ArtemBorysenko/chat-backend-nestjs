@@ -1,0 +1,1 @@
+export { IMessages } from './message.interface';

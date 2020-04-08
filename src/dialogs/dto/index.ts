@@ -1,0 +1,1 @@
+export { DialogsDto } from './dialog.dto';

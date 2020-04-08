@@ -1,0 +1,1 @@
+export { IDialogs } from './dialog.interface';
